@@ -47,6 +47,7 @@
     "ng-recaptcha": "^9.0.0",
     "ng2-google-charts": "^7.0.0",
     "ng2-pdf-viewer": "^9.1.5",
+    "ngx-device-detector": "^7.0.0",
     "ngx-echarts": "^14.0.0",
     "ngx-editor": "^14.2.0",
     "ngx-extended-pdf-viewer": "^18.0.0",
